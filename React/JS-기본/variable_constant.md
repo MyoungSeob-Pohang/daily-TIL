@@ -28,7 +28,6 @@ let +age = 10; // Error + 기호사용
 let 1value = 20; // Error 숫자로 시작
 let $name_ = 10; // OK
 let class = 'test' // Error class라는 예약어 사용
-
 ```
 
 ## var와 let의 차이
@@ -41,7 +40,6 @@ var age = 10;
 console.log(age) // 10 출력
 var age = 'Moonsbi';
 console.log(age) // Moonsbi 출력
-
 ```
 
 이와 같이 같은 변수명을 가진 age가 여러번 선언되어서 값이 변경될 수 있다.
@@ -55,7 +53,6 @@ let age = 10;
 console.log(age) // 10 출력
 let age = 'Moonsbi'; // Error
 console.log(age)
-
 ```
 
 # 상수
@@ -67,7 +64,6 @@ console.log(age)
 ```
 const MAX_VALUE = 100;
 const PI = 3.14;
-
 ```
 
 const 라는 키워드를 사용하며 뒤에오는 상수명은 대문자로 모두 써주는게 관례이다. 연결되는 단어는 \_ 기호를 사용하여 연결한다.
@@ -77,13 +73,10 @@ const 라는 키워드를 사용하며 뒤에오는 상수명은 대문자로 �
 const PI = 3.14;
 PI = 3; // Error
 const PI = 1; // Error
-
 ```
 
 그리고 값을 초기에 넣어주지 않는 것도 에러가 발생한다. 나중에 값을 넣을 수 없기 때문이고 선언 후에는 반드시 값을 정해주어야 한다.
 
 ```
-
 const PI; // Error
-
 ```
