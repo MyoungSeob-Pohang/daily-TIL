@@ -13,7 +13,7 @@
 4. Undefined : 정의되지 않은 값
 5. Null : 값이 없음
 
-**_ null과 Undefined의 차이는 null은 null이라는 값이 주어진 것이고 Undefined는 그냥 아무것도 하지않은 상태 _**
+**null과 Undefined의 차이는 null은 null이라는 값이 주어진 것이고 Undefined는 그냥 아무것도 하지않은 상태 \_**
 
 ```
 let age = 25; // Number
