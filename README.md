@@ -3,9 +3,7 @@
 TIL 작성법 참조 (https://github.com/cheese10yun/TIL)  
  어제보다 발전한 스스로가 되기 위해 학습한 내용이나 개발한 부분들을 기록으로 남긴다.  
  날짜를 표시하지 않은 이유는 조급해지지 않고 꾸준하게 하기 위함이다.   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyoungSeob-Pohang&show_icons=true&theme=radical)
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyoungSeob-Pohang%2Fdaily-TIL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+ 
 # 분류
 
 ## JavaScript
