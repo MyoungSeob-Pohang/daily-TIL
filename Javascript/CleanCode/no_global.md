@@ -10,3 +10,5 @@ console로 window를 출력해보면 아주 많은 자바스크립트 API 명세
 
 예를 들어 생각해보자, 만약 index.html 에서 index.js 와 index2.js를 불러온다고 생각하자.  
 그리고 index.js에서 var globalVar = 'global'; 이라 저장해 두었다고 치자. 그럼 globalVar변수는 window 즉 최상위에 저장이 되게 된다. 그래서 window.globalVar로도 출력이 가능하고 window를 콘솔에 찍어도 globalVar 값이 저장된 것을 볼 수있다. 자 그러면 index2.js에서 아무것도 없는데 console.log(globalVar); 을 출력하면 어떨까 ? 당연히 출력이 된다. 이렇게되면 전역공간을 사용하면 index.js와 index2.js의 코드가 겹칠수 도 있게된다. 파일을 나누면 코드 구역도 나눠진다 생각하는 사람이 많은데 그렇지 않다. 당연히 scope영역으로 나뉘게 된다.
+
+자 그러면 결론이 나온다. 전역변수를 애초에 만들지 않는 것이다.
