@@ -25,3 +25,24 @@ console.log(addTwo(5)); // 7
 ```
 
 코드를 보면 혼란스러울 수 있다. 지금 보면 addOne은 외부 함수 add만 실행 된 것이고 대신 실행된 상태에서 내부에 있는 return function도 기억을 하고 있는 것이다. addOne의 출력을 보면 함수를 가지고 있다. 즉 1이라는 값을 넘긴 상태로 내부 scope를 기억해둔 것이니 console.log(addOne(3));이렇게 호출하면 1 + 3 인 4가 출력이 되는 것이다. addTwo도 보면 2를 넘긴 상태에서 내부 scope 를 기억해둔 것이고 5를 넘겻으니 둘을 합한 7값이 나온 것이다. 똑같은 함수를 실행시킬 때 마다 개별 Context를 기억하고 있는 것이다.
+
+```
+function add(num1) {
+    return function(num2) {
+        return function (calculateFn) {
+            return calculateFn(num1, num2);
+        }
+    }
+}
+
+function sum(num1, num2) {
+    return num1 + num2;
+}
+
+const addOne = add(1)(2);
+const sumAdd = addOne(sum);
+```
+
+위 코드를 보자 addOne을 선언하면서 add(1)(2)를 할당하였다. 이 1과 2는 add(num1) function(num2)에 각각 저장 되고 function (calculateFn)를 기억하고있다. 그래서 addOne를 콘솔에 출력하면 ƒ () {} 함수가 출력된다. 그럼 addOne가 가진 값음 1, 2, function 이다. 그 상태에서 sumAdd = addOne(sum) addOne에 sum 함수를 넣어주면 1과 2가 더한 결과가 리턴되면서 결국 3이 출력되게 된다. 각자의 context 영역을 가지고 있는 것이다. 이렇게 closure를 사용할 수 있다.
+
+Closure는 더욱 더 이해가 필요할것 같다.
