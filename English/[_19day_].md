@@ -55,7 +55,7 @@ love : 사랑하다
 hope : 희망하다
 refuse : 거절하다
 fail : 실패하다
-perfer : 선호하다
+prefer : 선호하다
 ask : 요청하다
 agree : 동의하다
 tend : ~하는 경향이 있다
