@@ -11,7 +11,7 @@ I'm too tired to cook.
 나는 너무 피곤해서 요리할 수 없다.
 부사 too는 너무 라는 뜻으로 정도가 지나칠 때 쓰는 표현, 요리하기에는 너무 피곤하다, 즉 너무 피곤해서 요리할 수 없다는 뜻
 
-The question was too diffclut to answer. cf. The question was very diffcult to answer.
+The question was too difficult to answer. cf. The question was very difficult to answer.
 그 질문은 너무 어려워서 대답할 수 없었다. 그 질문은 대답하기 매우 어려웠다.
 대답하기에 너무 어렵다, 즉 너무 어려워서 대답할 수 없다는 뜻 , cf very difficult는 매우 어렵다는 뜻으로 ~할 수 없다라는 부정의 의미를 나타내지 않는다.
 
