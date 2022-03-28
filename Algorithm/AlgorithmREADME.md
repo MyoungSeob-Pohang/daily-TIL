@@ -38,6 +38,8 @@
     -   [14469 / 그리디: 소가 길을 건너간 이유3](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/Algorithm/Baekjoon/14469.md)
     -   [1246 / 그리디: 온라인 판매](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/Algorithm/Baekjoon/1246.md)
     -   [3135 / 그리디: 라디오](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/Algorithm/Baekjoon/3135.md)
+    -   [12782 / 그리디: 비트 우정지수](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/Algorithm/Baekjoon/12782.md)
+    -   [16208 / 그리디: 귀찮음](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/Algorithm/Baekjoon/16208.md)
 
 -   [DFS/BFS]
 
