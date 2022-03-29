@@ -40,6 +40,8 @@
     -   [3135 / 그리디: 라디오](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/Algorithm/Baekjoon/3135.md)
     -   [12782 / 그리디: 비트 우정지수](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/Algorithm/Baekjoon/12782.md)
     -   [16208 / 그리디: 귀찮음](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/Algorithm/Baekjoon/16208.md)
+    -   [11256 / 그리디: 사탕](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/Algorithm/Baekjoon/11256.md)
+    -   [2865 / 그리디: 나는 위대한 슈퍼스타K](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/Algorithm/Baekjoon/2865.md)
 
 -   [DFS/BFS]
 
