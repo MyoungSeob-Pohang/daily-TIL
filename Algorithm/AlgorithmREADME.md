@@ -42,6 +42,7 @@
     -   [16208 / 그리디: 귀찮음](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/Algorithm/Baekjoon/16208.md)
     -   [11256 / 그리디: 사탕](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/Algorithm/Baekjoon/11256.md)
     -   [2865 / 그리디: 나는 위대한 슈퍼스타K](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/Algorithm/Baekjoon/2865.md)
+    -   [18310 / 그리디: 안테나](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/Algorithm/Baekjoon/18310.md)
 
 -   [DFS/BFS]
 
