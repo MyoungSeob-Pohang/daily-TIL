@@ -35,6 +35,7 @@
     -   [31일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_31day_].md)
     -   [32일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_32day_].md)
     -   [33일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_33day_].md)
+    -   [34일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_34day_].md)
 
 -   [기초문법]
     -   [기초문법 - 1](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/Basic_grammar-1.md)
