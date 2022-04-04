@@ -20,11 +20,11 @@
     조동사 + 현재완료형
     must + have V-ed : ~했음이 틀림없다.
     may / might + have V-ed : ~했을지도 모른다.
-    can't / couldn't + gave V-ed : ~했을 리가 없다.
+    can't / couldn't + have V-ed : ~했을 리가 없다.
 
 ```
 I know that must have been a big effort for you.
-당신에게 그건 틀림없이 큰 노려ㅛㄱ이었다는 걸 알고 있어요.
+당신에게 그건 틀림없이 큰 노력이었다는 걸 알고 있어요.
 must에 be동사(~이다)의 현재완료형(have been)이 결합하여 ~였음에 틀림없다 라는 뜻이 되었다.
 
 He must not have seen me. He just walked away.
@@ -33,7 +33,7 @@ He must not have seen me. He just walked away.
 
 She may have been in her room.
 그녀는 방에 있었을지도 몰라.
-may에 be동사(있다)의 현재완료ㅕ형이 결합하여 있었을지도 모른다 라는 뜻으로 쓰였다. 과거 사실에 대한 추측을 나타낸다.
+may에 be동사(있다)의 현재완료형이 결합하여 있었을지도 모른다 라는 뜻으로 쓰였다. 과거 사실에 대한 추측을 나타낸다.
 
 Ted might have missed the train.
 테드는 기차를 놓쳤을지도 몰라.
