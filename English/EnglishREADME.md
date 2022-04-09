@@ -42,6 +42,7 @@
     -   [38일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_38day_].md)
     -   [39일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_39day_].md)
     -   [40일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_40day_].md)
+    -   [41일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_41day_].md)
 
 -   [기초문법]
     -   [기초문법 - 1](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/Basic_grammar-1.md)
