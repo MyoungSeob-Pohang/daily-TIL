@@ -49,7 +49,7 @@ The application form will be sent to you.
 직접목적어가 수동태 문장의 주어가 될 때, 간접목적어 앞에는 적절한 전치사를 붙인다.
 send는 직접목적어만을 수동태의 주어로 하는 동사이기 때문에 You'll be sent the application form은 틀린문장이다.
 
-This striped tie was bought for him by gis wife.
+This striped tie was bought for him by his wife.
 <- His wife bought him this striped tie.
 이 줄무늬 타이는 그의 아내에 의해서 그를 위해 구입되었다.
 buy는 직접목적어만을 수동태의 주어로 하는 동사이다. buy는 수동태에서 간접목적어 앞에 전치사 for을 쓴다.
