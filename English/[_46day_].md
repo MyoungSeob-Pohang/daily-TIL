@@ -37,7 +37,7 @@ They made me change my plan.
 사역동사는 능동태 문장에서 목적격보어로 원형부정사를 취하지만 수동태 문장에서는 원형부정사 대신 to부정사를 써야한다.
 
 The refugees were helped to adapt to their new environment.
-THe government helped the refugees adapt to their new environment.
+The government helped the refugees adapt to their new environment.
 난민들은 새로운 환경에 적용하도록 도움을 받았다.
 help는 준사역동사라 목적격보어로 동사원형과 to부정사를 모두 취할 수 있다.
 help의 목적격보어로 원형부정사(adapt)가 쓰인 경우 수동태에서는 to부정사(to adapt)로 바꿔야 한다.
@@ -48,7 +48,7 @@ help의 목적격보어로 원형부정사(adapt)가 쓰인 경우 수동태에�
 -   지각동사가 쓰인 능동태 문장의 목적격보어가 원형부정사라면, 수동태로 바뀔 때 원형부정사 대신 to부정사를 써야한다.
 
 ```
-THe ground was felt to shake.
+The ground was felt to shake.
 We felt the ground shake.
 땅이 흔들리는 것이 느껴졌다.
 지각동사는 목적격보어로 분사와 원형부정사를 취한다. 분사가 목적격보어일 때는 수동태로 바뀌어도 형태가 달라지지 않지만
