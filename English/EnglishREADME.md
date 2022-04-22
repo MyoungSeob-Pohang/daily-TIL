@@ -54,6 +54,7 @@
     -   [51일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_51day_].md)
     -   [52일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_52day_].md)
     -   [53일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_53day_].md)
+    -   [54일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_54day_].md)
 
 -   [기초문법]
     -   [기초문법 - 1](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/Basic_grammar-1.md)
