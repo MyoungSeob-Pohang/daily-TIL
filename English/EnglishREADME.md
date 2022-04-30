@@ -62,6 +62,7 @@
     -   [59일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_59day_].md)
     -   [60일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_60day_].md)
     -   [61일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_61day_].md)
+    -   [62일차](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/[_62day_].md)
 
 -   [기초문법]
     -   [기초문법 - 1](https://github.com/MyoungSeob-Pohang/daily-TIL/blob/main/English/Basic_grammar-1.md)
